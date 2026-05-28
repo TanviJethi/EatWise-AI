@@ -1,0 +1,19 @@
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.csv
+
+# Test files
+test_script.py
+
+
+# OS files
+.DS_Store
+Thumbs.db
